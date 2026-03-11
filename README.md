@@ -11,7 +11,7 @@ This project was developed as part of an **undergraduate thesis for academic pur
 
 **"Pengembangan Model Klasifikasi Citra Penyakit Mata Berbasis ConvNeXtV2"**
 
-The research focuses on exploring the effectiveness of the ConvNeXtV2 architecture for medical image classification using retinal fundus images.
+The research focuses on exploring the effectiveness of the ConvNeXtV2 architecture for medical image classification using external eyes images.
 
 ## Research Objectives
 
