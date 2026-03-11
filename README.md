@@ -1,13 +1,17 @@
 # Eye Disease Classification using ConvNeXtV2 
 
-##  Overview
+## Overview
 
-This project develops a deep learning model to classify eye diseases from retinal images.
+This project develops a deep learning model to classify eye diseases from retinal images.  
 The model is built using the **ConvNeXtV2 architecture** implemented in **PyTorch** to detect different types of eye diseases automatically.
 
 Early detection of eye diseases is important to prevent vision loss and help medical professionals provide faster diagnosis.
 
----
+This project was developed as part of an **undergraduate thesis for academic purposes**, titled:
+
+**"Pengembangan Model Klasifikasi Citra Penyakit Mata Berbasis ConvNeXtV2"**
+
+The research focuses on exploring the effectiveness of the ConvNeXtV2 architecture for medical image classification using retinal fundus images.
 
 ## Research Objectives
 
